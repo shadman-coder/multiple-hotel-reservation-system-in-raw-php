@@ -7,3 +7,6 @@ start the project from localhost/nupurlast/exp.php
 create a database "hoteldb"
 import the database from Database folder
 vendor profile and user profile 
+for admin localhost/nupurlast/admin
+username for admin :- admin
+password for admin := admin123
